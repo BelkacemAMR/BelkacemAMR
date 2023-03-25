@@ -1,9 +1,17 @@
-## Bonjour ! 👋
+## Hello ! 👋
 
 ### Petite présentation:
 
-  Je m'appelle AMROUN Belkacem, et je suis actuellement en reconversion professionelle vers La data Analyse, aprés avoir été diplomé en robotique 
- et informatique et connu divers expériences profesionelles dans ces domaines.
+Je suis un data scientist passionné par l'exploration de données et la création de modèles pour résoudre des problèmes complexes. J'ai une solide expérience dans la manipulation et l'analyse de données, ainsi que dans la mise en œuvre de modèles prédictifs et de techniques de machine learning.
+
+Mes compétences incluent :
+
+Langages de programmation : Python, R, SQL, etc.
+Outils d'analyse de données : Pandas, NumPy, Scikit-learn, etc.
+Visualisation de données : Matplotlib, Seaborn, Plotly, etc.
+Bases de données : MySQL, PostgreSQL, MongoDB, etc.
+Technologies de big data : Hadoop, Spark, etc.
+Je suis également passionné par la collaboration et l'open-source, et j'aime travailler sur des projets collaboratifs avec d'autres data scientists et développeurs. Mon profil GitHub contient des projets sur lesquels j'ai travaillé, ainsi que des contributions à des projets open-source. N'hésitez pas à jeter un coup d'œil et à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet passionnant.
 
 
 ### ⚡ Technologies & Logiciels 
