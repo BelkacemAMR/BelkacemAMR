@@ -25,6 +25,7 @@ Je suis également passionné par la collaboration et l'open-source, et j'aime t
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
+https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
