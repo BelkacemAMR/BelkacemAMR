@@ -2,6 +2,7 @@
 
 ### Petite présentation:
 
+
 Je suis un data scientist passionné par l'exploration de données et la création de modèles pour résoudre des problèmes complexes. J'ai une solide expérience dans la manipulation et l'analyse de données, ainsi que dans la mise en œuvre de modèles prédictifs et de techniques de machine learning.
 
 Mes compétences incluent :
