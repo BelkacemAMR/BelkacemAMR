@@ -8,10 +8,15 @@ Je suis un data scientist passionné par l'exploration de données et la créati
 Mes compétences incluent :
 
 Langages de programmation : Python, R, SQL, etc.
+
 Outils d'analyse de données : Pandas, NumPy, Scikit-learn, etc.
+
 Visualisation de données : Matplotlib, Seaborn, Plotly, etc.
+
 Bases de données : MySQL, PostgreSQL, MongoDB, etc.
+
 Technologies de big data : Hadoop, Spark, etc.
+
 Je suis également passionné par la collaboration et l'open-source, et j'aime travailler sur des projets collaboratifs avec d'autres data scientists et développeurs. Mon profil GitHub contient des projets sur lesquels j'ai travaillé, ainsi que des contributions à des projets open-source. N'hésitez pas à jeter un coup d'œil et à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet passionnant.
 
 
