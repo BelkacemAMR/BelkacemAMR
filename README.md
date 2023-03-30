@@ -39,3 +39,4 @@ Contact: abel.amroun@gmail.com
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
+![ANACONDA](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
