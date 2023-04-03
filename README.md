@@ -1,24 +1,12 @@
 ## Hello ! 👋
 
-### Petite présentation:
+I am a passionate and experienced Data Analyst with a deep expertise in data manipulation and analysis. I am proficient in working with programming languages such as Python and SQL, as well as data analysis tools like Pandas, NumPy, and Scikit-learn. I also have a strong knowledge of data visualization using tools such as Matplotlib, Seaborn, and Plotly.
 
+I have a proven track record in managing and manipulating large-scale data and am proficient in working with both relational and non-relational databases such as MySQL, PostgreSQL, and MongoDB. I am also experienced in using Big Data technologies like Hadoop and Spark.
 
-Je suis un data scientist passionné par l'exploration de données et la création de modèles pour résoudre des problèmes complexes. J'ai une solide expérience dans la manipulation et l'analyse de données, ainsi que dans la mise en œuvre de modèles prédictifs et de techniques de machine learning.
+As a Data Analyst, I am passionate about solving complex data problems and am capable of creating reports and visualizations to help businesses make informed decisions. My ability to work effectively with teams, communicate clearly, and present complex analyses in a simple and understandable way are also valuable assets.
 
-Mes compétences incluent :
-
-Langages de programmation : Python, SQL, etc.
-
-Outils d'analyse de données : Pandas, NumPy, Scikit-learn, etc.
-
-Visualisation de données : Matplotlib, Seaborn, Plotly, etc.
-
-Bases de données : MySQL, PostgreSQL, MongoDB, etc.
-
-Technologies de big data : Hadoop, Spark, etc.
-
-Je suis également passionné par la collaboration et l'open-source, et j'aime travailler sur des projets collaboratifs avec d'autres data scientists et développeurs.
-
+In summary, my experience and skills in data manipulation and analysis, data visualization, as well as my ability to effectively communicate, make me a competent and qualified Data Analyst ready to help businesses make data-driven decisions.
 
 Contact: abel.amroun@gmail.com
 
