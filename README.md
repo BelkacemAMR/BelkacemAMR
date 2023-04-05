@@ -9,6 +9,7 @@ As a Data Analyst, I am passionate about solving complex data problems and am ca
 In summary, my experience and skills in data manipulation and analysis, data visualization, as well as my ability to effectively communicate, make me a competent and qualified Data Analyst ready to help businesses make data-driven decisions.
 
 
+
 Contact:  abel.amroun@gmail.com
 
 
