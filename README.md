@@ -1,6 +1,7 @@
 ## Hello ! 👋
 
 I am a passionate and experienced Data Analyst with a deep expertise in data manipulation and analysis. I am proficient in working with programming languages such as Python and SQL, as well as data analysis tools like Pandas, NumPy, and Scikit-learn. I also have a strong knowledge of data visualization using tools such as Matplotlib, Seaborn, and Plotly.
+
 I have a proven track record in managing and manipulating large-scale data and am proficient in working with both relational and non-relational databases such as MySQL, PostgreSQL, and MongoDB. I am also experienced in using Big Data technologies like Hadoop and Spark.
 
 As a Data Analyst, I am passionate about solving complex data problems and am capable of creating reports and visualizations to help businesses make informed decisions. My ability to work effectively with teams, communicate clearly, and present complex analyses in a simple and understandable way are also valuable assets.
