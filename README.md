@@ -33,4 +33,4 @@ Contact:  abel.amroun@gmail.com
 ![NotePad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![DATA.AI](https://img.shields.io/badge/data.ai-000000.svg?style=for-the-badge&logo=datadotai&logoColor=white)
-![PHP]([https://img.shields.io/badge/data.ai-000000.svg?style=for-the-badge&logo=datadotai&logoColor=white](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white))
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
