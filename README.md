@@ -32,4 +32,4 @@ Contact:  abel.amroun@gmail.com
 ![ARDUINO](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![NotePad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-
+![DATA.AI](https://img.shields.io/badge/data.ai-000000.svg?style=for-the-badge&logo=datadotai&logoColor=white)
