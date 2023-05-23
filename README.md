@@ -34,3 +34,4 @@ Contact:  abel.amroun@gmail.com
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![DATA.AI](https://img.shields.io/badge/data.ai-000000.svg?style=for-the-badge&logo=datadotai&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
