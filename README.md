@@ -38,3 +38,4 @@ Contact:  abel.amroun@gmail.com
 ![DOKER](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![DATA AZUR EXPLORER](https://img.shields.io/badge/Azure%20Data%20Explorer-0078D4.svg?style=for-the-badge&logo=Azure-Data-Explorer&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-FF6D70.svg?style=for-the-badge&logo=Talend&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
